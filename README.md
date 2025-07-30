@@ -58,22 +58,25 @@ python main.py
 ```
 
 🔮 Future Improvements
--**GUI Interface with PyQt5 or Tkinter**
 
--**Password-based admin and user login**
+- **GUI Interface with PyQt5 or Tkinter**
 
--**Due dates & overdue book tracking**
+- **Password-based admin and user login**
 
--**SQLite or JSON-based database instead of CSV**
+- **Due dates & overdue book tracking**
 
--**Book reservation system**
+- **SQLite or JSON-based database instead of CSV**
 
--**Book reviews/ratings by users**
+- **Book reservation system**
+
+- **Book reviews/ratings by users**
 
 🤝 Contributing
+
 Contributions, feedback, or suggestions are welcome! Feel free to fork this project or open an issue.
 
 📬 Contact
+
 Developed by Nazar Abbas
 
 📧 Email: [nazarabbasmm4@gmail.com]
